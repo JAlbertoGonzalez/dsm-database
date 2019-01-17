@@ -1,0 +1,113 @@
+{
+"chapters": [
+	{
+		"id" : 1,
+		"name_es" : "Trastornos del desarrollo neurológico",
+		"name_en" : "Neurodevelopmental Disorders"
+	},
+	{
+		"id" : 2,
+		"name_es" : "Espectro de la esquizofrenia y otros trastornos psicóticos",
+		"name_en" : "Schizophrenia Spectrum and Other Psychotic Disorders"
+	},
+	{
+		"id" : 3,
+		"name_es" : "Trastorno bipolar y trastornos relacionados",
+		"name_en" : "Bipolar and Related Disorders"
+	},
+	{
+		"id" : 4,
+		"name_es" : "Trastornos depresivos",
+		"name_en" : "Depressive Disorders"
+	},
+	{
+		"id" : 5,
+		"name_es" : "Trastornos de ansiedad",
+		"name_en" : "Anxiety Disorders"
+	},
+	{
+		"id" : 6,
+		"name_es" : "Trastorno obsesivo-compulsivo y trastornos relacionados",
+		"name_en" : "Obsessive-Compulsive and Related Disorders"
+	},
+	{
+		"id" : 7,
+		"name_es" : "Trastornos relacionados con traumas y factores de estrés",
+		"name_en" : "Trauma- and Stressor-Related Disorders"
+	},
+	{
+		"id" : 8,
+		"name_es" : "Trastornos disociativos",
+		"name_en" : "Dissociative Disorders"
+	},
+	{
+		"id" : 9,
+		"name_es" : "Trastorno de síntomas somáticos y trastornos relacionados",
+		"name_en" : "Somatic Symptom and Related Disorders"
+	},
+	{
+		"id" : 10,
+		"name_es" : "Trastornos alimentarios y de la ingestión de alimentos",
+		"name_en" : "Feeding and Eating Disorders"
+	},
+	{
+		"id" : 11,
+		"name_es" : "Trastornos de la excreción",
+		"name_en" : "Elimination Disorders"
+	},
+	{
+		"id" : 12,
+		"name_es" : "Trastornos del sueño-vigilia",
+		"name_en" : "Sleep-Wake Disorders"
+	},
+	{
+		"id" : 13,
+		"name_es" : "Disfunciones sexuales",
+		"name_en" : "Sexual Dysfunctions"
+	},
+	{
+		"id" : 14,
+		"name_es" : "Disforia de género",
+		"name_en" : "Gender Dysphoria"
+	},
+	{
+		"id" : 15,
+		"name_es" : "Trastornos destructivos del control de los impulsos y de la conducta",
+		"name_en" : "Disruptive, Impulse-Control, and Conduct Disorders"
+	},
+	{
+		"id" : 16,
+		"name_es" : "Trastornos relacionados con sustancias y trastornos adictivos",
+		"name_en" : "Substance-Related and Addictive Disorders"
+	},
+	{
+		"id" : 17,
+		"name_es" : "Trastornos neurocognitivos",
+		"name_en" : "Neurocognitive Disorders"
+	},
+	{
+		"id" : 18,
+		"name_es" : "Trastornos de la personalidad",
+		"name_en" : "Personality Disorders"
+	},
+	{
+		"id" : 19,
+		"name_es" : "Trastornos parafílicos",
+		"name_en" : "Paraphilic Disorders"
+	},
+	{
+		"id" : 20,
+		"name_es" : "Otros trastornos mentales",
+		"name_en" : "Other Mental Disorders"
+	},
+	{
+		"id" : 21,
+		"name_es" : "Trastornos motores inducidos por medicamentos y otros efectos adversos de los medicamentos",
+		"name_en" : "Medication-Induced Movement Disorders and Other Adverse Effects of Medication"
+	},
+	{
+		"id" : 22,
+		"name_es" : "Otros problemas que pueden ser objeto de atención clínica",
+		"name_en" : "Other Conditions That May Be a Focus of Clinical Attention"
+	}
+]}
